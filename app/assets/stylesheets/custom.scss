@@ -219,10 +219,6 @@ input {
 
 /* Dropdown menu */
 
-.dropdown-menu {
-    display: block;
-}
-
-.active {
+.dropdown-menu.active {
     display: block;
 }
